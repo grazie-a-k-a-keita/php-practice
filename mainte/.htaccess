@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "ID and Password Required"
+AuthUserFile /workspaces/php-practice/mainte/.htpasswd
+require valid-user
